@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "coalistic:to_quadruple_coal"
+    ]
+  },
+  "criteria": {
+    "has_triple_coal": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "coalistic:triple_coal"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "coalistic:to_quadruple_coal"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_triple_coal",
+      "has_the_recipe"
+    ]
+  ]
+}
