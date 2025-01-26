@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "!": {
+      "item": "minecraft:coal"
+    },
+    "*": {
+      "item": "trymod:coal_piece"
+    }
+  },
+  "pattern": [
+    "***",
+    "*!*",
+    "***"
+  ],
+  "result": {
+    "item": "trymod:double_coal"
+  },
+  "show_notification": true
+}

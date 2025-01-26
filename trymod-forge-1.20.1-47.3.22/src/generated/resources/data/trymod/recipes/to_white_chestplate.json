@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "*": {
+      "item": "trymod:white_block"
+    }
+  },
+  "pattern": [
+    "* *",
+    "***",
+    "***"
+  ],
+  "result": {
+    "item": "trymod:white_chestplate"
+  },
+  "show_notification": true
+}

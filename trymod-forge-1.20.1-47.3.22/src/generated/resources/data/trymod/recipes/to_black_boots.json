@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "*": {
+      "item": "trymod:black_block"
+    }
+  },
+  "pattern": [
+    "   ",
+    "* *",
+    "* *"
+  ],
+  "result": {
+    "item": "trymod:black_boots"
+  },
+  "show_notification": true
+}

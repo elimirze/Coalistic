@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "trymod:block/tam_block"
+    }
+  }
+}

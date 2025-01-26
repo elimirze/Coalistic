@@ -1,0 +1,33 @@
+{
+  "block.trymod.black_block": "Black Block",
+  "block.trymod.white_block": "White Block",
+  "block.trymod.tam_block": "TAM Block",
+
+  "item.trymod.black_helmet" : "Black Helmet",
+  "item.trymod.black_chestplate" : "Black Chestplate",
+  "item.trymod.black_leggings" : "Black Leggings",
+  "item.trymod.black_boots" : "Black Boots",
+
+  "item.trymod.white_helmet" : "White Helmet",
+  "item.trymod.white_chestplate" : "White Chestplate",
+  "item.trymod.white_leggings" : "White Leggings",
+  "item.trymod.white_boots" : "White Boots",
+
+  "item.trymod.tam_helmet" : "TAM Helmet",
+  "item.trymod.tam_chestplate" : "TAM Chestplate",
+  "item.trymod.tam_leggings" : "TAM Leggings",
+  "item.trymod.tam_boots" : "TAM Boots",
+
+  "item.trymod.coal_piece" : "Coal Piece",
+  "item.trymod.double_coal" : "Double Coal",
+  "item.trymod.triple_coal" : "Triple Coal",
+  "item.trymod.quadruple_coal" : "Quadruple Coal",
+  "item.trymod.double_charcoal" : "Double Charcoal",
+  "item.trymod.triple_charcoal" : "Triple Charcoal",
+  "item.trymod.quadruple_charcoal" : "Quadruple Charcoal",
+  "effect.trymod.black_effect": "Black Effect",
+  "effect.trymod.white_effect": "White Effect",
+  "effect.trymod.tam_effect": "TAM Effect",
+  "trymod:trymodcoalistictab" : "Try Mod: Coalistic",
+  "trymod:trymodtamtab" : "Try Mod: TAM"
+}

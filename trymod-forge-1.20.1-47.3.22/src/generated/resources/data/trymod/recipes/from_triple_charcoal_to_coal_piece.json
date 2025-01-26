@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "trymod:triple_charcoal"
+    }
+  ],
+  "result": {
+    "count": 24,
+    "item": "trymod:coal_piece"
+  }
+}
