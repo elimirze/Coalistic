@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "coalistic:from_triple_coal_to_coal_piece"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_triple_coal": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "coalistic:triple_coal"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_triple_coal",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "coalistic:from_triple_coal_to_coal_piece"
+    ]
+  }
+}
