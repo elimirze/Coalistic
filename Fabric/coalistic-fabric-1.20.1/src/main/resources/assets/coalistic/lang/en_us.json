@@ -6,5 +6,5 @@
   "item.coalistic.double_charcoal" : "Double Charcoal",
   "item.coalistic.triple_charcoal" : "Triple Charcoal",
   "item.coalistic.quadruple_charcoal" : "Quadruple Charcoal",
-  "coalistic:coalistic_tab" : "Coalistic"
+  "itemGroup.coalistic.coalistic_tab" : "Coalistic"
 }
