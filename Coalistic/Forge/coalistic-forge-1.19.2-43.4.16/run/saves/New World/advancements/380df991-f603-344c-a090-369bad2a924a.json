@@ -1,0 +1,51 @@
+{
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2025-01-28 21:21:44 +0400"
+    },
+    "done": true
+  },
+  "coalistic:recipes/misc/from_coal_piece_to_coal": {
+    "criteria": {
+      "has_coal_piece": "2025-01-28 21:21:56 +0400"
+    },
+    "done": true
+  },
+  "coalistic:recipes/coalistic_tab/from_coal_to_coal_piece": {
+    "criteria": {
+      "has_coal": "2025-01-28 21:21:44 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-01-28 21:21:44 +0400"
+    },
+    "done": true
+  },
+  "coalistic:recipes/coalistic_tab/to_double_coal": {
+    "criteria": {
+      "has_coal": "2025-01-28 21:21:44 +0400"
+    },
+    "done": true
+  },
+  "coalistic:recipes/misc/from_coal_piece_to_charcoal": {
+    "criteria": {
+      "has_coal_piece": "2025-01-28 21:21:56 +0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:desert": "2025-01-28 21:21:11 +0400"
+    },
+    "done": false
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-28 21:21:40 +0400"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}

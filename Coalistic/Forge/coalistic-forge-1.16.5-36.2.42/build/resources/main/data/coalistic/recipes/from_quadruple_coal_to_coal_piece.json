@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "coalistic:quadruple_coal"
+    }
+  ],
+  "result": {
+    "item": "coalistic:coal_piece",
+    "count": 32
+  }
+}

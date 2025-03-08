@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dfce6052-41f6-4087-9447-696060bc0251" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="coalistic-forge-1.20.1-47.3.22" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="coalistic-forge-1.20.1-47.3.22" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="coalistic-forge-1.20.1-47.3.22" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2qwkgT7tgvJZlOOSGyKI2RVWsHI" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.D:/Github/Minecraft Mods/Coalistic/Forge/coalistic-forge-1.20.1-47.3.22 [createMcpToSrg].executor": "Run",
+    "Gradle.D:/Github/Minecraft Mods/coalistic-forge-1.20.1-47.3.22 [createMcpToSrg].executor": "Run",
+    "Gradle.D:/Github/Minecraft Mods/forge-1.20.1-47.3.22-mdk [createMcpToSrg].executor": "Run",
+    "Gradle.D:/Github/Minecraft Mods/trymod-forge-1.20.1-47.3.22 [createMcpToSrg].executor": "Run",
+    "Gradle.Upgrade Gradle wrapper.executor": "Run",
+    "Gradle.coalistic-forge-1.20.1-47.3.22 [createMcpToSrg].executor": "Run",
+    "Gradle.forge-1.20.1-47.3.22-mdk [build].executor": "Run",
+    "Gradle.forge-1.20.1-47.3.22-mdk [createMcpToSrg].executor": "Run",
+    "Gradle.forge-1.20.1-47.3.22-mdk [jar].executor": "Run",
+    "Gradle.forge-1.20.1-47.3.22-mdk [runClient].executor": "Run",
+    "Gradle.forge-1.20.1-47.3.22-mdk [runData].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "forge-1.20.1",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "D:/Github/Minecraft Mods/forge-1.20.1-47.3.22-mdk/src/main/java/net/mstudio",
+    "last_opened_file_path": "D:/Github/Minecraft Mods/Coalistic/Coalistic/coalistic-forge-1.20.1-47.3.22",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.43793103",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "build.tools"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Github\Minecraft Mods\forge-1.20.1-47.3.22-mdk\src\main\resources\assets" />
+      <recent name="D:\Github\Minecraft Mods\forge-1.20.1-47.3.22-mdk\src\main\java\net\mstudio\coalistic" />
+      <recent name="D:\Github\Minecraft Mods\forge-1.20.1-47.3.22-mdk\src\main\resources\assets\trymod\models\item" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Github\Minecraft Mods\forge-1.20.1-47.3.22-mdk\src\main\resources\assets\trymod\textures" />
+      <recent name="D:\Github\Minecraft Mods\forge-1.20.1-47.3.22-mdk\src\main\resources\data\minecraft\tags\blocks" />
+      <recent name="D:\Github\Minecraft Mods\forge-1.20.1-47.3.22-mdk\src\main\resources\assets\trymod" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="net.mstudio.trymod.effect" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="net.mstudio.trymod.event" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.forge-1.20.1-47.3.22-mdk [runClient]">
+    <configuration name="forge-1.20.1-47.3.22-mdk [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="forge-1.20.1-47.3.22-mdk [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="forge-1.20.1-47.3.22-mdk [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--scan --stacktrace" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runClient" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="forge-1.20.1-47.3.22-mdk [runData]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runData" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.forge-1.20.1-47.3.22-mdk [runClient]" />
+        <item itemvalue="Gradle.forge-1.20.1-47.3.22-mdk [jar]" />
+        <item itemvalue="Gradle.forge-1.20.1-47.3.22-mdk [runData]" />
+        <item itemvalue="Gradle.forge-1.20.1-47.3.22-mdk [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfce6052-41f6-4087-9447-696060bc0251" name="Changes" comment="" />
+      <created>1735581148427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735581148427</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.facetType" implementationName="minecraft" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

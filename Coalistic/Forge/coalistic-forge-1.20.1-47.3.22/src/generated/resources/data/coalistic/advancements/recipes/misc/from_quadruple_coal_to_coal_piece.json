@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_quadruple_coal": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "coalistic:quadruple_coal"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "coalistic:from_quadruple_coal_to_coal_piece"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_quadruple_coal",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "coalistic:from_quadruple_coal_to_coal_piece"
+    ]
+  },
+  "sends_telemetry_event": false
+}

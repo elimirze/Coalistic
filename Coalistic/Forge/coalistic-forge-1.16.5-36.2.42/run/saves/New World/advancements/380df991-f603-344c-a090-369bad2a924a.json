@@ -1,0 +1,280 @@
+{
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-26 23:21:41 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-01-26 23:15:57 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-26 23:21:41 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-26 23:21:41 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-26 23:21:41 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-01-26 23:17:15 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-26 23:18:58 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-26 23:21:41 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-26 23:21:41 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-26 23:21:41 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-26 23:21:13 +0400"
+    },
+    "done": true
+  },
+  "coalistic:recipes/misc/from_coal_piece_to_charcoal": {
+    "criteria": {
+      "has_coal_piece": "2025-01-26 23:25:23 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_ore": "2025-01-26 23:16:07 +0400"
+    },
+    "done": true
+  },
+  "coalistic:recipes/coalistic_tab/from_quadruple_coal_to_coal_piece": {
+    "criteria": {
+      "has_quadruple_coal": "2025-01-26 23:27:12 +0400"
+    },
+    "done": true
+  },
+  "coalistic:recipes/coalistic_tab/to_quadruple_charcoal": {
+    "criteria": {
+      "has_the_recipe": "2025-01-26 23:26:57 +0400"
+    },
+    "done": true
+  },
+  "coalistic:recipes/coalistic_tab/from_charcoal_to_coal_piece": {
+    "criteria": {
+      "has_charcoal": "2025-01-26 23:25:46 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-26 23:21:41 +0400"
+    },
+    "done": true
+  },
+  "coalistic:recipes/coalistic_tab/to_double_charcoal": {
+    "criteria": {
+      "has_charcoal": "2025-01-26 23:25:46 +0400"
+    },
+    "done": true
+  },
+  "coalistic:recipes/coalistic_tab/from_coal_to_coal_piece": {
+    "criteria": {
+      "has_coal": "2025-01-26 23:25:44 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-26 23:21:41 +0400"
+    },
+    "done": true
+  },
+  "coalistic:recipes/coalistic_tab/from_quadruple_charcoal_to_coal_piece": {
+    "criteria": {
+      "has_quadruple_charcoal": "2025-01-26 23:27:12 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-01-26 23:18:49 +0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2025-01-26 23:15:38 +0400",
+      "minecraft:plains": "2025-01-26 18:37:24 +0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-01-26 23:21:41 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2025-01-26 23:25:44 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-26 23:21:41 +0400"
+    },
+    "done": true
+  },
+  "coalistic:recipes/misc/from_coal_piece_to_coal": {
+    "criteria": {
+      "has_coal_piece": "2025-01-26 18:38:08 +0400"
+    },
+    "done": true
+  },
+  "coalistic:recipes/coalistic_tab/to_quadruple_coal": {
+    "criteria": {
+      "has_the_recipe": "2025-01-26 23:26:44 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-01-26 23:18:58 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-26 23:21:41 +0400"
+    },
+    "done": true
+  },
+  "coalistic:recipes/coalistic_tab/to_double_coal": {
+    "criteria": {
+      "has_coal": "2025-01-26 23:25:44 +0400"
+    },
+    "done": true
+  },
+  "coalistic:recipes/coalistic_tab/to_triple_charcoal": {
+    "criteria": {
+      "has_the_recipe": "2025-01-26 23:26:55 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-26 23:21:41 +0400"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-26 23:25:33 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-01-26 23:18:58 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-26 23:18:58 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-26 23:21:41 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-26 23:21:41 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-26 23:21:41 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-01-26 23:25:44 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-01-26 23:18:58 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting": {
+    "criteria": {
+      "has_iron_ore": "2025-01-26 23:16:07 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-26 23:21:41 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-01-26 23:18:58 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2025-01-26 23:21:41 +0400"
+    },
+    "done": true
+  },
+  "coalistic:recipes/coalistic_tab/to_triple_coal": {
+    "criteria": {
+      "has_the_recipe": "2025-01-26 23:26:41 +0400"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

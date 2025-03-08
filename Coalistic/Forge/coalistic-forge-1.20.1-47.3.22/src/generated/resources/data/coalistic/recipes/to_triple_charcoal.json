@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "!": {
+      "item": "coalistic:double_charcoal"
+    },
+    "*": {
+      "item": "coalistic:coal_piece"
+    }
+  },
+  "pattern": [
+    "***",
+    "*!*",
+    "***"
+  ],
+  "result": {
+    "item": "coalistic:triple_charcoal"
+  },
+  "show_notification": true
+}

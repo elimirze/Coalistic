@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "coalistic:from_coal_piece_to_coal"
+    ]
+  },
+  "criteria": {
+    "has_coal_piece": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "coalistic:coal_piece"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "coalistic:from_coal_piece_to_coal"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_coal_piece",
+      "has_the_recipe"
+    ]
+  ]
+}

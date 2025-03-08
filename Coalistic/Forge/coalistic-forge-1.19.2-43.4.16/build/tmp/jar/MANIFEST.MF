@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: coalistic
+Specification-Vendor: Alimirza Huseynov
+Specification-Version: 1
+Implementation-Title: coalistic-forge-1.19.2-43.4.16
+Implementation-Version: 1.0.0-1.19.2
+Implementation-Vendor: Alimirza Huseynov
+Implementation-Timestamp: 2025-01-28T21:22:13+0400
+
