@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfce6052-41f6-4087-9447-696060bc0251" name="Changes" comment="" />
+    <list default="true" id="dfce6052-41f6-4087-9447-696060bc0251" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Neoforge/coalistic-neoforge-1.21.1/src/main/resources/assets/coalistic/textures/item/coal_piece.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Neoforge/coalistic-neoforge-1.21.1/src/main/resources/assets/coalistic/textures/item/double_charcoal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Neoforge/coalistic-neoforge-1.21.1/src/main/resources/assets/coalistic/textures/item/double_coal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Neoforge/coalistic-neoforge-1.21.1/src/main/resources/assets/coalistic/textures/item/quadruple_charcoal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Neoforge/coalistic-neoforge-1.21.1/src/main/resources/assets/coalistic/textures/item/quadruple_coal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Neoforge/coalistic-neoforge-1.21.1/src/main/resources/assets/coalistic/textures/item/triple_charcoal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Neoforge/coalistic-neoforge-1.21.1/src/main/resources/assets/coalistic/textures/item/triple_coal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Neoforge/coalistic-neoforge-1.21.1/src/main/resources/assets/coalistic/textures/logo/coalistic_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Neoforge/coalistic-neoforge-1.21.1/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Neoforge/coalistic-neoforge-1.21.1/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Neoforge/coalistic-neoforge-1.21.1/src/main/java/net/mstudio.coalistic/Coalistic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Neoforge/coalistic-neoforge-1.21.1/src/main/java/net/mstudio.coalistic/Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Neoforge/coalistic-neoforge-1.21.1/src/main/resources/assets/coalistic/lang/en_us.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Neoforge/coalistic-neoforge-1.21.1/src/main/templates/META-INF/neoforge.mods.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Neoforge/coalistic-neoforge-1.21.1/src/main/templates/META-INF/neoforge.mods.toml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +72,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="coalistic-forge-1.20.1-47.3.22.main/invalid/Minecraft" />
+      <facet id="coalistic-forge-1.20.1-47.3.22.test/invalid/Minecraft" />
+      <facet id="forge-1.20.1-47.3.22-mdk.main/invalid/Minecraft" />
+      <facet id="forge-1.20.1-47.3.22-mdk.test/invalid/Minecraft" />
+      <facet id="net.mstudio.coalistic.coalistic-forge-1.20.1-47.3.22.main/invalid/Minecraft" />
+      <facet id="net.mstudio.coalistic.coalistic-forge-1.20.1-47.3.22.test/invalid/Minecraft" />
+      <facet id="trymod-forge-1.20.1-47.3.22.main/invalid/Minecraft" />
+      <facet id="trymod-forge-1.20.1-47.3.22.test/invalid/Minecraft" />
+    </ignored-facets>
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -85,16 +111,16 @@
     "Gradle.forge-1.20.1-47.3.22-mdk [runData].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "forge-1.20.1",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_directory_selection": "D:/Github/Minecraft Mods/forge-1.20.1-47.3.22-mdk/src/main/java/net/mstudio",
-    "last_opened_file_path": "D:/Github/Minecraft Mods/Coalistic/Coalistic/coalistic-forge-1.20.1-47.3.22",
+    "last_opened_file_path": "D:/Github/Minecraft Mods/trymod-forge-1.20.1-47.3.22",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.43793103",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "build.tools"
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RecentsManager">

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "!": {
+      "item": "coalistic:double_coal"
+    },
+    "*": {
+      "item": "coalistic:coal_piece"
+    }
+  },
+  "pattern": [
+    "***",
+    "*!*",
+    "***"
+  ],
+  "result": {
+    "count": 1,
+    "id": "coalistic:triple_coal"
+  }
+}
