@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfce6052-41f6-4087-9447-696060bc0251" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Neoforge/coalistic-neoforge-1.21.1/src/main/resources/assets/coalistic/textures/item/coal_piece.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Neoforge/coalistic-neoforge-1.21.1/src/main/resources/assets/coalistic/textures/item/double_charcoal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Neoforge/coalistic-neoforge-1.21.1/src/main/resources/assets/coalistic/textures/item/double_coal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Neoforge/coalistic-neoforge-1.21.1/src/main/resources/assets/coalistic/textures/item/quadruple_charcoal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Neoforge/coalistic-neoforge-1.21.1/src/main/resources/assets/coalistic/textures/item/quadruple_coal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Neoforge/coalistic-neoforge-1.21.1/src/main/resources/assets/coalistic/textures/item/triple_charcoal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Neoforge/coalistic-neoforge-1.21.1/src/main/resources/assets/coalistic/textures/item/triple_coal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Neoforge/coalistic-neoforge-1.21.1/src/main/resources/assets/coalistic/textures/logo/coalistic_logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Neoforge/coalistic-neoforge-1.21.1/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Neoforge/coalistic-neoforge-1.21.1/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Neoforge/coalistic-neoforge-1.21.1/src/main/java/net/mstudio.coalistic/Coalistic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Neoforge/coalistic-neoforge-1.21.1/src/main/java/net/mstudio.coalistic/Config.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Neoforge/coalistic-neoforge-1.21.1/src/main/resources/assets/coalistic/lang/en_us.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Neoforge/coalistic-neoforge-1.21.1/src/main/templates/META-INF/neoforge.mods.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Neoforge/coalistic-neoforge-1.21.1/src/main/templates/META-INF/neoforge.mods.toml" afterDir="false" />
-    </list>
+    <list default="true" id="dfce6052-41f6-4087-9447-696060bc0251" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,33 +82,33 @@
     <option name="flattenModules" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.D:/Github/Minecraft Mods/Coalistic/Forge/coalistic-forge-1.20.1-47.3.22 [createMcpToSrg].executor": "Run",
-    "Gradle.D:/Github/Minecraft Mods/coalistic-forge-1.20.1-47.3.22 [createMcpToSrg].executor": "Run",
-    "Gradle.D:/Github/Minecraft Mods/forge-1.20.1-47.3.22-mdk [createMcpToSrg].executor": "Run",
-    "Gradle.D:/Github/Minecraft Mods/trymod-forge-1.20.1-47.3.22 [createMcpToSrg].executor": "Run",
-    "Gradle.Upgrade Gradle wrapper.executor": "Run",
-    "Gradle.coalistic-forge-1.20.1-47.3.22 [createMcpToSrg].executor": "Run",
-    "Gradle.forge-1.20.1-47.3.22-mdk [build].executor": "Run",
-    "Gradle.forge-1.20.1-47.3.22-mdk [createMcpToSrg].executor": "Run",
-    "Gradle.forge-1.20.1-47.3.22-mdk [jar].executor": "Run",
-    "Gradle.forge-1.20.1-47.3.22-mdk [runClient].executor": "Run",
-    "Gradle.forge-1.20.1-47.3.22-mdk [runData].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_directory_selection": "D:/Github/Minecraft Mods/forge-1.20.1-47.3.22-mdk/src/main/java/net/mstudio",
-    "last_opened_file_path": "D:/Github/Minecraft Mods/trymod-forge-1.20.1-47.3.22",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.43793103",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.D:/Github/Minecraft Mods/Coalistic/Forge/coalistic-forge-1.20.1-47.3.22 [createMcpToSrg].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.D:/Github/Minecraft Mods/coalistic-forge-1.20.1-47.3.22 [createMcpToSrg].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.D:/Github/Minecraft Mods/forge-1.20.1-47.3.22-mdk [createMcpToSrg].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.D:/Github/Minecraft Mods/trymod-forge-1.20.1-47.3.22 [createMcpToSrg].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Upgrade Gradle wrapper.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.coalistic-forge-1.20.1-47.3.22 [createMcpToSrg].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.forge-1.20.1-47.3.22-mdk [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.forge-1.20.1-47.3.22-mdk [createMcpToSrg].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.forge-1.20.1-47.3.22-mdk [jar].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.forge-1.20.1-47.3.22-mdk [runClient].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.forge-1.20.1-47.3.22-mdk [runData].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;D:/Github/Minecraft Mods/forge-1.20.1-47.3.22-mdk/src/main/java/net/mstudio&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Github/Minecraft Mods/Coalistic/Quilt/coalistic-quilt-1.21&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.43793103&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Github\Minecraft Mods\forge-1.20.1-47.3.22-mdk\src\main\resources\assets" />

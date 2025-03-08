@@ -1,0 +1,36 @@
+{
+    "schema_version": 1,
+    "quilt_loader": {
+        "group": "${group}",
+        "id": "coalistic",
+        "version": "${version}",
+        "metadata": {
+            "name": "Coalistic",
+            "description": "Try this mod out. I hope you will enjoy it ;)",
+            "contributors": {
+                "Alimirza Huseynov": "Owner"
+            },
+            "contact": {},
+            "icon": "assets/example_mod/icon.png"
+        },
+        "intermediate_mappings": "net.fabricmc:intermediary",
+        "entrypoints": {
+            "init": "coalistic.mstudio.net.coalistic.Coalistic"
+        },
+        "depends": [
+            {
+                "id": "quilt_loader",
+                "versions": ">=0.19.1"
+            },
+            {
+                "id": "quilted_fabric_api",
+                "versions": ">=7.0.2"
+            },
+            {
+                "id": "minecraft",
+                "versions": ">=1.20"
+            }
+        ]
+    },
+    "mixin": "coalistic.mixins.json"
+}
