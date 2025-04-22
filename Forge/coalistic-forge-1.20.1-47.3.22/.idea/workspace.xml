@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfce6052-41f6-4087-9447-696060bc0251" name="Changes" comment="" />
+    <list default="true" id="dfce6052-41f6-4087-9447-696060bc0251" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Fabric/coalistic-fabric-1.21.1/src/main/resources/assets/coalistic/coalistic_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Fabric/coalistic-fabric-1.21.1/src/main/resources/assets/coalistic/lang/en_us.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Fabric/coalistic-fabric-1.21.1/src/main/resources/assets/coalistic/textures/item/coal_piece.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Fabric/coalistic-fabric-1.21.1/src/main/resources/assets/coalistic/textures/item/double_charcoal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Fabric/coalistic-fabric-1.21.1/src/main/resources/assets/coalistic/textures/item/double_coal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Fabric/coalistic-fabric-1.21.1/src/main/resources/assets/coalistic/textures/item/quadruple_charcoal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Fabric/coalistic-fabric-1.21.1/src/main/resources/assets/coalistic/textures/item/quadruple_coal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Fabric/coalistic-fabric-1.21.1/src/main/resources/assets/coalistic/textures/item/triple_charcoal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Fabric/coalistic-fabric-1.21.1/src/main/resources/assets/coalistic/textures/item/triple_coal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fabric/coalistic-fabric-1.21.1/src/main/resources/assets/coalistic/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fabric/coalistic-fabric-1.21.1/src/main/resources/fabric.mod.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Fabric/coalistic-fabric-1.21.1/src/main/resources/fabric.mod.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +113,7 @@
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_directory_selection&quot;: &quot;D:/Github/Minecraft Mods/forge-1.20.1-47.3.22-mdk/src/main/java/net/mstudio&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Github/Minecraft Mods/Coalistic/Quilt/coalistic-quilt-1.21&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/NameLess/Desktop/coalistic-fabric-1.21.1&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.43793103&quot;,
